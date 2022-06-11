@@ -1,10 +1,3 @@
 *.so
-*
-!.gitignore
-!*.c
-!*.py
-!Makefile
-!*.md
-!interpreter_scripts/*
-!modules/
-!modules/*/
+*.out
+cat
